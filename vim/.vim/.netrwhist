@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/yuanwei/lc211-old/kernel/arch/arm/configs'
+let g:netrw_dirhist_2='/home/yuanwei/lc211-old/kernel/drivers/video/msm'
+let g:netrw_dirhist_3='/home/yuanwei/lc211-old/kernel/arch/arm/configs'
+let g:netrw_dirhist_4='/home/yuanwei/8x25-repo/device/qcom/msm8x25_d9_lc211'
+let g:netrw_dirhist_5='/home/yuanwei/lc211-old/kernel/arch/arm/configs'
+let g:netrw_dirhist_6='/home/yuanwei/8x25-repo/kernel/arch/arm/configs'
+let g:netrw_dirhist_7='/home/yuanwei/arm11/.repo/manifests.git'
+let g:netrw_dirhist_8='/home/yuanwei/7x27a-11302301/kernel/arch/arm/configs'
+let g:netrw_dirhist_9='/home/yuanwei/8x25-repo/kernel/arch/arm/configs'
