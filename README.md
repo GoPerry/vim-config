@@ -1,6 +1,5 @@
 # vim-config
 
-
 nmap wv     <C-w>v     " 垂直分割当前窗口
 nmap wc     <C-w>c     " 关闭当前窗口
 nmap ws     <C-w>s     " 水平分割当前窗口
